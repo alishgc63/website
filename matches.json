@@ -1,18 +1,18 @@
 [
   {
     "team1": "Biratnagar Kings",
-    "team1Logo": "https://example.com/biratnagar-kings-logo.png",
+    "team1Logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BKN@2x.png",
     "team2": "Janakpur Bolts",
-    "team2Logo": "https://example.com/janakpur-bolts-logo.png",
-    "dateTime": "2024-11-27T12:15:00",
+    "team2Logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JKB@2x.png",
+    "dateTime": "2024-11-30T12:15:00",
     "duration": 120
   },
   {
     "team1": "Kathmandu Gurkhas",
-    "team1Logo": "https://example.com/kathmandu-gurkhas-logo.png",
+    "team1Logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KMG@2x.png",
     "team2": "Chitwan Rhinos",
-    "team2Logo": "https://example.com/chitwan-rhinos-logo.png",
-    "dateTime": "2024-11-27T09:15:00",
+    "team2Logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CWR@2x.png",
+    "dateTime": "2024-12-2T09:15:00",
     "duration": 120
   }
 ]
